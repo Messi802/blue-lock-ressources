@@ -1,15 +1,26 @@
-📘 Blue Lock – Analyse & Contenu
-Ce dépôt regroupe plusieurs ressources autour de l’anime Blue Lock, centré sur l’évolution des attaquants au sein d’un programme de sélection ultra-compétitif dirigé par Jinpachi Ego. L’objectif : créer le meilleur buteur du monde.
+# 📘 Blue Lock – Ressources PDF
 
-🗂 Contenu du dépôt
-Histoire.pdf
-Un résumé de l’intrigue principale de Blue Lock, présentant les enjeux, les personnages clés et l’évolution du projet Blue Lock.
+Ce dépôt contient diverses ressources autour de l’anime *Blue Lock*, centrées sur l’univers du football, l’évolution des joueurs, et les discours marquants de Jinpachi Ego.
 
-Chansons.pdf
-Liste des musiques de l’anime (opening, ending, OST), avec leurs titres, artistes et significations en lien avec les thèmes de la série.
+## 📂 Contenu des fichiers
 
-Lock in.pdf
-Détails sur le concept de “Lock In” dans la série : état de concentration maximale des joueurs lorsqu’ils expriment pleinement leur style individuel.
+- **Histoire.pdf**  
+  Résumé de l’intrigue de Blue Lock et des étapes clés du projet.
 
-Explication.pdf
-Compilation des explications de Jinpachi Ego, avec minutages et épisodes, sur des sujets clés : ego, intuition, chance, stratégie, etc.
+- **Chansons.pdf**  
+  Liste des musiques de l’anime avec titres, artistes et significations.
+
+- **Lock in.pdf**  
+  Explication du concept de "Lock In" utilisé par les joueurs à leur apogée.
+
+- **Explication.pdf**  
+  Recueil des explications de Jinpachi Ego par épisode et minutage (intuition, chance, ego, etc).
+
+## 📌 À propos
+
+Blue Lock est un anime centré sur la compétition individuelle entre attaquants dans le but de créer le meilleur buteur du monde.  
+Ce dépôt compile des éléments clés pour mieux comprendre les idées et la stratégie derrière le projet Blue Lock.
+
+---
+
+> 🔗 Projet personnel non officiel – à but informatif uniquement.
